@@ -17,8 +17,8 @@ import javax.servlet.http.HttpServletResponse;
  *
  * @author lendle
  */
-@WebServlet(name = "ProcessServlet", urlPatterns = {"/process"})
-public class ProcessServlet extends HttpServlet {
+@WebServlet(name = "ProcessServlet1", urlPatterns = {"/process1"})
+public class ProcessServlet1 extends HttpServlet {
 
     /**
      * Processes requests for both HTTP <code>GET</code> and <code>POST</code>
